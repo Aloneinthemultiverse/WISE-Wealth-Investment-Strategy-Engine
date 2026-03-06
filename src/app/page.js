@@ -51,14 +51,10 @@ export default function Home() {
             </div>
             <div>
               <h1 className="text-xl font-bold bg-gradient-to-r from-emerald-400 to-cyan-400 bg-clip-text text-transparent">
-                WISE
+                W.I.S.E
               </h1>
               <p className="text-[10px] text-slate-500 uppercase tracking-widest">Wealth & Investment Strategy Engine</p>
             </div>
-          </div>
-          <div className="hidden sm:flex items-center gap-2 text-slate-500 text-xs">
-            <span className="inline-block w-2 h-2 rounded-full bg-emerald-500 animate-pulse" />
-            Powered by AI
           </div>
         </div>
       </header>
